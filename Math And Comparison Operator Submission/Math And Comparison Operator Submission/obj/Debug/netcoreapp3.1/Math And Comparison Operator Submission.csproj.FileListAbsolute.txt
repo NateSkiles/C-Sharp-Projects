@@ -1,0 +1,13 @@
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\bin\Debug\netcoreapp3.1\Math And Comparison Operator Submission.exe
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\bin\Debug\netcoreapp3.1\Math And Comparison Operator Submission.deps.json
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\bin\Debug\netcoreapp3.1\Math And Comparison Operator Submission.runtimeconfig.json
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\bin\Debug\netcoreapp3.1\Math And Comparison Operator Submission.runtimeconfig.dev.json
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\bin\Debug\netcoreapp3.1\Math And Comparison Operator Submission.dll
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\bin\Debug\netcoreapp3.1\Math And Comparison Operator Submission.pdb
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.csprojAssemblyReference.cache
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.AssemblyInfoInputs.cache
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.AssemblyInfo.cs
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.csproj.CoreCompileInputs.cache
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.dll
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.pdb
+C:\Users\nates\source\repos\Math And Comparison Operator Submission\Math And Comparison Operator Submission\obj\Debug\netcoreapp3.1\Math And Comparison Operator Submission.genruntimeconfig.cache
