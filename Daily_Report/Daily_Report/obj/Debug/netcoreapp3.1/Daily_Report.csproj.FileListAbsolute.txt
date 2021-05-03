@@ -1,0 +1,13 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.genruntimeconfig.cache
