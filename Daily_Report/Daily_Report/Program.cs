@@ -20,13 +20,11 @@ namespace Daily_Report
 
             // Get page number as string, convert to Byte data type for whole numbers up to (+)255.
             Console.WriteLine("What page number?");
-            string pageNumber = Console.ReadLine();
-            byte studentPage = Convert.ToByte(pageNumber);
+            int studentPage = Convert.ToInt32(Console.ReadLine());
 
             // Get help, cast string as bool.
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\".");
-            string needHelp = Console.ReadLine();
-            bool studentHelp = Convert.ToBoolean(needHelp);
+            bool studentHelp = Convert.ToBoolean(Console.ReadLine());
 
 
             Console.WriteLine("Were there any postive experiences you'd like to share? Please give specifics.");
@@ -38,8 +36,7 @@ namespace Daily_Report
 
 
             Console.WriteLine("How many hours did you study for today?");
-            string studyHours = Console.ReadLine();
-            byte studentHours = Convert.ToByte(studyHours);
+            byte studentHours = Convert.ToByte(Console.ReadLine());
 
             Console.WriteLine("Thank  you for your answers. An Instructor will respond to this shortly. Have a great day!");
 

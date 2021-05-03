@@ -1,0 +1,12 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache
