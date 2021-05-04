@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\Array App.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\Array App.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\Array App.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\Array App.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\Array App.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\ref\Array App.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\bin\Debug\net5.0\Array App.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\ref\Array App.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Array App\obj\Debug\net5.0\Array App.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\StringFunctionsAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\StringFunctionsAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\StringFunctionsAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\StringFunctionsAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\StringFunctionsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\ref\StringFunctionsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\bin\Debug\net5.0\StringFunctionsAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\ref\StringFunctionsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctionsAssignment\obj\Debug\net5.0\StringFunctionsAssignment.genruntimeconfig.cache

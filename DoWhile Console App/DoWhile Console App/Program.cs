@@ -23,7 +23,7 @@ namespace DoWhile_Console_App
             }
 
 
-            Console.WriteLine("Guess a number");
+            Console.WriteLine("\n\nGuess a number");
             int number = Convert.ToInt32(Console.ReadLine());
             int isEven = number % 2;
             bool isGuessed = isEven == 0;
