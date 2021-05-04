@@ -31,11 +31,11 @@ namespace Boolean_Logic_Submission
             bool qualified = userAge > 15 && userDUI == false && userTickets <= 3;
             if (qualified)
             {
-                Console.WriteLine("Congratulations! You qualify.");
+                Console.WriteLine("\n\nCongratulations! You qualify.");
             }
             else
             {
-                Console.WriteLine("I'm sorry, you do not qualify.");
+                Console.WriteLine("\n\nI'm sorry, you do not qualify.");
             }
 
             Console.ReadLine();
