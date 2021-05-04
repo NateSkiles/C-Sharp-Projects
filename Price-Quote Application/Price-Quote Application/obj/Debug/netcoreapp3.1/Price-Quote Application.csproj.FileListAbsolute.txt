@@ -1,0 +1,13 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\bin\Debug\netcoreapp3.1\Price-Quote Application.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Price-Quote Application\Price-Quote Application\obj\Debug\netcoreapp3.1\Price-Quote Application.genruntimeconfig.cache

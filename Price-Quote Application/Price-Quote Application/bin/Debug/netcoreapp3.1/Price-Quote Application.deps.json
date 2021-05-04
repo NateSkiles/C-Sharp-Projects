@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Price-Quote Application/1.0.0": {
+        "runtime": {
+          "Price-Quote Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Price-Quote Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
