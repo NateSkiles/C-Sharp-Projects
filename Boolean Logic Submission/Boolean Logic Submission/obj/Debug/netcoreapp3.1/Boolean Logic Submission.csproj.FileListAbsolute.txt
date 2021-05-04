@@ -1,0 +1,13 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\netcoreapp3.1\Boolean Logic Submission.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\netcoreapp3.1\Boolean Logic Submission.genruntimeconfig.cache
