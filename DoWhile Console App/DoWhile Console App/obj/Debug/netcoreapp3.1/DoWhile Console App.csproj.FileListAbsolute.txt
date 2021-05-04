@@ -1,0 +1,13 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\bin\Debug\netcoreapp3.1\DoWhile Console App.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\bin\Debug\netcoreapp3.1\DoWhile Console App.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\bin\Debug\netcoreapp3.1\DoWhile Console App.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\bin\Debug\netcoreapp3.1\DoWhile Console App.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\bin\Debug\netcoreapp3.1\DoWhile Console App.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\bin\Debug\netcoreapp3.1\DoWhile Console App.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.genruntimeconfig.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DoWhile Console App\DoWhile Console App\obj\Debug\netcoreapp3.1\DoWhile Console App.csprojAssemblyReference.cache

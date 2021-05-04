@@ -20,7 +20,6 @@ namespace Price_Quote_Application
                 Console.ReadLine();
                 Environment.Exit(0);
             }
-
             //The user must then be prompted for the package width.
             Console.Write("Pleas enter the package's width (in inches): ");
             int packageWidth = Convert.ToInt32(Console.ReadLine());
