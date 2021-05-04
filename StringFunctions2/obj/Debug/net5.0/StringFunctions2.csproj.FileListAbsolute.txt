@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\StringFunctions2.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\StringFunctions2.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\StringFunctions2.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\StringFunctions2.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\StringFunctions2.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\ref\StringFunctions2.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\bin\Debug\net5.0\StringFunctions2.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\ref\StringFunctions2.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions2\obj\Debug\net5.0\StringFunctions2.genruntimeconfig.cache

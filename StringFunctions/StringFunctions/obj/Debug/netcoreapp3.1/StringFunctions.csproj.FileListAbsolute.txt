@@ -1,0 +1,13 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.genruntimeconfig.cache

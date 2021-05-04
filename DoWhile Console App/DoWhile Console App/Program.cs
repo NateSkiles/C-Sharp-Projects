@@ -6,6 +6,23 @@ namespace DoWhile_Console_App
     {
         static void Main()
         {
+            int i = 0;
+            Console.WriteLine("Counting to 5:");
+            while (i <= 5)
+            {
+                switch(i)
+                {
+                    case 6:
+                        Console.WriteLine("We did it.");
+                        break;
+                    default:
+                        Console.WriteLine(i + "...");
+                        i++;
+                        break;
+                }
+            }
+
+
             Console.WriteLine("Guess a number");
             int number = Convert.ToInt32(Console.ReadLine());
             int isEven = number % 2;
