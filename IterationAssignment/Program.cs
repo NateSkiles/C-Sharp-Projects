@@ -122,6 +122,7 @@ class Program
         // Create a foreach loop that evaluates each item in the list, and displays a message..
         // ..showing the string and whether or not it has already appeared in the list.
         Console.WriteLine("\n\n");
+
         foreach (string word in wordList) 
         {
             if (searched.Contains(word)) 
