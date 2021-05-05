@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\IterationAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\IterationAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\IterationAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\IterationAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\IterationAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\ref\IterationAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\bin\Debug\net5.0\IterationAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\ref\IterationAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\IterationAssignment\obj\Debug\net5.0\IterationAssignment.genruntimeconfig.cache
