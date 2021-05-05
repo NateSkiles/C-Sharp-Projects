@@ -16,20 +16,22 @@ class Program
         }
         Console.Write(" / >> ");
 
-
+        // Now put the loop in a try/catch block.Below and outside of the try/catch block, make the program print a message to the display to let you know the
+        // has emerged from the try/catch block and continued on with program executionIn the catch block, display the error message to the screen.
         try
         {
             int divisor = Convert.ToInt32(Console.ReadLine());
             Console.Write("The list divided by your divisor \"" + divisor + "\" equals:\n");
             foreach (int i in list)
             {
+                // Divide each item in the list by the divisor, round answer to the second decimal place.
                 Console.Write(" " + Math.Round((double)(i) / divisor, 2, MidpointRounding.AwayFromZero));
             }
             Console.WriteLine("\nTry");
         }
         catch (DivideByZeroException ex)
         {
-            Console.WriteLine(ex.Message);
+            Console.WriteLine("Please do not divide by 0.");
             Console.WriteLine("\nCatch");
         }
         catch (FormatException ex)
@@ -42,25 +44,6 @@ class Program
             Console.WriteLine("\n\nYou have emerged from the try/catch block!");
             Console.ReadLine();
         }
-
-
-
-
-        //Run the code, entering in non - zero numbers as the user. Look at the displayed results.
-
-
-        //Run the code again, entering in zero as the number to divide by.Note any error messages you get.
-
-
-        //Run the code once again, entering in a string as the number to divide by.Note any error messages you get.
-
-
-        //Now put the loop in a try/catch block.Below and outside of the try/catch block,
-        //make the program print a message to the display to let you know the program has emerged from the try/catch block
-        //and continued on with program execution.In the catch block, display the error message to the screen.
-        //Then try various combinations of user input: valid numbers, zero and a string.Ensure the proper error messages display
-        //on the screen, and that the code after the try/catch block gets executed.
-
     }
 }
 
