@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExceptionHandling Assignment/1.0.0": {
+        "runtime": {
+          "ExceptionHandling Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionHandling Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ExceptionHandling Assignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ExceptionHandling Assignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ExceptionHandling Assignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ExceptionHandling Assignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ExceptionHandling Assignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ref\ExceptionHandling Assignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\bin\Debug\net5.0\ExceptionHandling Assignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ref\ExceptionHandling Assignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ExceptionHandling Assignment\obj\Debug\net5.0\ExceptionHandling Assignment.genruntimeconfig.cache
