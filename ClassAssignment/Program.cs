@@ -7,7 +7,7 @@ namespace ClassAssignment
         static void Main(string[] args)
         {
             // In the Main() method, instantiate that class. Have the user enter a number. Call the method on that number.
-            Console.WriteLine("Please enter a positive integer: ");
+            Console.WriteLine("Please enter an integer: ");
             try
             {
                 int dividend = Convert.ToInt32(Console.ReadLine());
