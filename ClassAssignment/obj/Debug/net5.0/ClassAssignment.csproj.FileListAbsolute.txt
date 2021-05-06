@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ClassAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ClassAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ClassAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ClassAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ClassAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ref\ClassAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\bin\Debug\net5.0\ClassAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ref\ClassAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ClassAssignment\obj\Debug\net5.0\ClassAssignment.genruntimeconfig.cache
