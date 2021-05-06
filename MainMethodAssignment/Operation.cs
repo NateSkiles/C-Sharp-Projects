@@ -18,7 +18,7 @@ namespace MainMethodAssignment
         
         // Add a second method to the class with the same name that will take in a decimal,
         // create a different math operation for it, then return the answer as an integer.
-        public static decimal Addition(decimal inputDcml)
+        public static int Addition(decimal inputDcml)
         {
             int outputInt = Decimal.ToInt32(inputDcml + 10m);
             return outputInt;
@@ -27,7 +27,7 @@ namespace MainMethodAssignment
         // Add a third method to the class, with the same name, that will take in a string,
         // convert it to an integer if possible, do a different math operation to it,
         // then return the answer as an integer.
-        public static string Addition(string inputStr)
+        public static int Addition(string inputStr)
         {
             int inputInt = Convert.ToInt32(inputStr);
             int outputInt = inputInt * 3;
