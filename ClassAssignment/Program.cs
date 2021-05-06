@@ -17,7 +17,7 @@ namespace ClassAssignment
                 Operation.Multiply();
                 Operation.Multiply(product: dividend);
                 myOperation.myValue(out string x);
-                Console.WriteLine("My favorite number is: {0}", x);
+                Console.WriteLine("\n\nMy favorite number is: {0}", x);
             }
             catch (FormatException ex)
             {
