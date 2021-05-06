@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\CallingMethodsAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\CallingMethodsAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\CallingMethodsAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\CallingMethodsAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\CallingMethodsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\ref\CallingMethodsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\bin\Debug\net5.0\CallingMethodsAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\ref\CallingMethodsAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\CallingMethodsAssignment\obj\Debug\net5.0\CallingMethodsAssignment.genruntimeconfig.cache
