@@ -8,7 +8,7 @@ namespace BlackJackGame
 {
     class Deck
     {
-        // Constructor Class that is method that's called when an object is created
+        // Constructor Class that is a method called when an object is created
         public Deck()
         {
             // Instantiate  List Cards, an emptyList of Card objects
