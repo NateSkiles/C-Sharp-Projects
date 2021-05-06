@@ -14,6 +14,7 @@ namespace ClassAssignment
             // Have the method divide the data passed to it by 2.
             int output = dividend / 2;
             Console.WriteLine("\n{0} / 2 = {1}", dividend, output);
+
         }
 
         // Create a method with output parameters.
@@ -26,6 +27,12 @@ namespace ClassAssignment
         {
             int output = product * 2;
             Console.WriteLine("\n{0} x 2 = {1}", product, output);
+        }
+
+        public void myValue(out string x)
+        {
+            int myInt = 7;
+            x = Convert.ToString(myInt);
         }
     }
 }

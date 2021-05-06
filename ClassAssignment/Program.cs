@@ -7,6 +7,7 @@ namespace ClassAssignment
         static void Main(string[] args)
         {
             // In the Main() method, instantiate that class. Have the user enter a number. Call the method on that number.
+            Operation myOperation = new Operation();
             Console.WriteLine("Please enter an integer: ");
             try
             {
@@ -15,6 +16,8 @@ namespace ClassAssignment
                 Operation.Divide(dividend);
                 Operation.Multiply();
                 Operation.Multiply(product: dividend);
+                myOperation.myValue(out string x);
+                Console.WriteLine("My favorite number is: {0}", x);
             }
             catch (FormatException ex)
             {
