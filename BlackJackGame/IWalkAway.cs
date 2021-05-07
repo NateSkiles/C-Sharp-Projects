@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BlackJackGame
 {
-    interface Interface1
+    interface IWalkAway
     {
+        void WalkAway(Player player);
     }
 }
