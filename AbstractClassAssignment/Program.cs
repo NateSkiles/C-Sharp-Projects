@@ -21,7 +21,7 @@ namespace AbstractClassAssignment
             bool checkedId = employee1 == employee2;
             if (checkedId)
             {
-                Console.WriteLine("Employee {0} already exists, employee ID number: {1}", employee1.firstName, employee1.employeeId);
+                Console.WriteLine("Employee \"{0}\" already exists, employee ID number: {1}", employee1.firstName, employee1.employeeId);
             }
             else
             {
