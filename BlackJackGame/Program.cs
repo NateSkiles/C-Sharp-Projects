@@ -15,7 +15,7 @@ namespace BlackJackGame
             Player player = new Player();
             player.Name = "Nate";
             game += player;
-            game = game - playerd;
+            game = game - player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);
