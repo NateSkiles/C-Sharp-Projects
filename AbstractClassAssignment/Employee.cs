@@ -21,5 +21,20 @@ namespace AbstractClassAssignment
         {
             Console.WriteLine("I quit!");
         }
+
+        public int employeeId { get; set; }
+
+        // Overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property.
+        // Returns bool value when comparing two employee IDs.
+        public static bool operator== (Employee employee1, Employee employee2)
+        {
+            bool checkedId =employee1.employeeId == employee2.employeeId;
+            return checkedId;
+        }
+        public static bool operator!= (Employee employee1, Employee employee2)
+        {
+            bool checkedId = employee1.employeeId != employee2.employeeId;
+            return checkedId;
+        }
     }
 }
