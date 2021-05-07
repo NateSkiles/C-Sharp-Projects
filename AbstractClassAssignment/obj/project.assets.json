@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nates\\Desktop\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\AbstractClassAssignment\\AbstractClassAssignment.csproj",
       "projectName": "AbstractClassAssignment",
-      "projectPath": "C:\\Users\\nates\\Desktop\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment.csproj",
+      "projectPath": "C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\AbstractClassAssignment\\AbstractClassAssignment.csproj",
       "packagesPath": "C:\\Users\\nates\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nates\\Desktop\\Basic_C#_Programs\\AbstractClassAssignment\\obj\\",
+      "outputPath": "C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\AbstractClassAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
