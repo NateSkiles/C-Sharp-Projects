@@ -10,31 +10,20 @@ namespace BlackJackGame
     {
         static void Main(string[] args)
         {
-            TwentyOne game = new TwentyOne();
-            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Nate", "Bill", "Bob" };
             game.ListPlayers();
-            Console.ReadLine();
 
-            //    Deck deck = new Deck();
-            //    deck.Shuffle();
+            //Deck deck = new Deck();
+            //deck.Shuffle();
 
-            //    foreach  (Card card in deck.Cards )
-            //    {
-            //        Console.WriteLine(card.Face + " of " + card.Suit);
-            //    }
-            //    Console.WriteLine(deck.Cards.Count);
-
-            //    Console.ReadLine();
-            //}
-
-            // Overloaded method
-            //public static Deck Shuffle (Deck deck, int times)
+            //foreach (Card card in deck.Cards)
             //{
-            //    for (int i = 0; i < times; i++)
-            //    {
-            //        deck = Shuffle(deck);
-            //    }
-            //    return deck;
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+
+            Console.ReadLine();
         }
     }
 }

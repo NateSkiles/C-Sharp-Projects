@@ -53,6 +53,5 @@ namespace BlackJackGame
                 this.Cards = TempList;
             }
         }
-
     }
 }

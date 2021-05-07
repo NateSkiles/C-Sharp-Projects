@@ -22,13 +22,15 @@ namespace ClassAssignment
         {
             Console.WriteLine("\n\nThis function can multiply a number by 2 when passed an integer.");
         }
-
+        
+        // Multiply passed parameter.
         public static void Multiply(int product)
         {
             int output = product * 2;
             Console.WriteLine("\n{0} x 2 = {1}", product, output);
         }
 
+        // Outputs a string of myInt
         public void myValue(out string x)
         {
             int myInt = 7;
