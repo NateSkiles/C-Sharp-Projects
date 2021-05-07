@@ -1,0 +1,15 @@
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.exe
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.deps.json
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.runtimeconfig.json
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.runtimeconfig.dev.json
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.dll
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\ref\AbstractClassAssignment.dll
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\net5.0\AbstractClassAssignment.pdb
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.dll
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\ref\AbstractClassAssignment.dll
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.pdb
+C:\Users\nates\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\net5.0\AbstractClassAssignment.genruntimeconfig.cache
