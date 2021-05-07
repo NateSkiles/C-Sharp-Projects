@@ -12,5 +12,18 @@ namespace BlackJackGame
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool MyProperty { get; set; }
+
+
+        // Overloaded operators
+        public static Game operator+ (Game game, Player player)
+        {
+            game.Players.Add(player);
+            return game;
+        }
+        public static Game operator- (Game game, Player player)
+        {
+            game.Players.Remove(player);
+            return game;
+        }
     }
 }
