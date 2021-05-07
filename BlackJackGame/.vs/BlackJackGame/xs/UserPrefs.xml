@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4683EA8C-1D42-45D0-A0BA-7DF3992AC278}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyInterface.cs">
+    <Files>
+      <File FileName="TwentyOneGame.cs" Line="10" Column="6" IsPinned="True" />
+      <File FileName="Program.cs" Line="5" Column="23" />
+      <File FileName="Player.cs" Line="11" Column="40" />
+      <File FileName="Game.cs" Line="19" Column="38" />
+      <File FileName="Deck.cs" Line="17" Column="1" />
+      <File FileName="Dealer.cs" Line="1" Column="1" />
+      <File FileName="Card.cs" Line="1" Column="1" />
+      <File FileName="EmptyInterface.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlackJackGame" expanded="True">
+            <Node name="BlackJackGame" expanded="True">
+              <Node name="EmptyInterface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlackJackGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
