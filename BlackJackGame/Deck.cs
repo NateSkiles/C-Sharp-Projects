@@ -13,23 +13,14 @@ namespace BlackJackGame
         {
             // Instantiate  List Cards, an emptyList of Card objects
             Cards = new List<Card>();
-            // Instantiates two string lists of all of the Suits and Faces that a card can be
-            List<string> Suits = new List<string>() { "Clubs", "hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
 
-            // Loop through each Face value
-            foreach (string face in Faces)
+            for (int i = 0; i < 13; i++)
             {
-                // For each suit, create a card and add it to Cards list with suit and face
-                foreach (string suit in Suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
                 }
             }
