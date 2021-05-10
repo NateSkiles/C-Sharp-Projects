@@ -17,7 +17,7 @@ namespace ClassAssignment
 
         }
 
-        // Create a method with output parameters.
+        // Create a method without parameters.
         public static void Multiply()
         {
             Console.WriteLine("\n\nThis function can multiply a number by 2 when passed an integer.");

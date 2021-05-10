@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    public class Employee : Person, IQuitable
+    public class Employee<T> : Person, IQuitable
     {
+        // Add a property to the Employee class called “things” and have its data type be a generic list matching
+        // the generic type of the class.
+        public List<T> Things { get; set; }
+
         // Create another class called Employee and have it inherit from the Person class.
         public override void SayName()
         {
@@ -35,6 +39,26 @@ namespace AbstractClassAssignment
         {
             bool checkedId = employee1.employeeId != employee2.employeeId;
             return checkedId;
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (ReferenceEquals(this, obj))
+            {
+                return true;
+            }
+
+            if (ReferenceEquals(obj, null))
+            {
+                return false;
+            }
+
+            throw new NotImplementedException();
+        }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
         }
     }
 }
