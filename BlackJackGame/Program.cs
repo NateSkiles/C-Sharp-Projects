@@ -10,16 +10,16 @@ namespace BlackJackGame
     {
         static void Main(string[] args)
         {
-            
-
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-
-            foreach (Card card in deck.Cards)
+            Console.WriteLine("Welcome to Nate's Casino! Let's start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+            decimal bank = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine("Hello, {0} would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Player player
             }
-            Console.WriteLine(deck.Cards.Count);
 
             Console.ReadLine();
         }

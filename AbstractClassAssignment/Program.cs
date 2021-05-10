@@ -69,10 +69,18 @@ namespace AbstractClassAssignment
             //    Console.WriteLine("Employee Info: {0} {1} ID: {2}", employee.firstName, employee.lastName, employee.employeeId); 
             //}
 
-            // Using a lambda expression, make a list of all employees with an Id number greater than 5.
-            List<Employee> employees = new List<Employee>(employeeList.Where(employee => employee.employeeId > 5));
+            // Perform the same action again, but this time with a lambda expression.
+            List<Employee> employees2 = new List<Employee>(employeeList.Where(employee => employee.firstName == "Joe"));
+            foreach (Employee employee in employees2)
+            {
+                Console.WriteLine("{0} {1} {2}", employee.firstName, employee.lastName, employee.employeeId);
+            }
 
-            foreach (Employee employee in employees)
+            // Using a lambda expression, make a list of all employees with an Id number greater than 5.
+            List<Employee> employees1 = new List<Employee>(employeeList.Where(employee => employee.employeeId > 5));
+            Console.WriteLine("\n\n");
+
+            foreach (Employee employee in employees1)
             {
                 Console.WriteLine("{0} {1} {2}", employee.firstName, employee.lastName, employee.employeeId);
             }
