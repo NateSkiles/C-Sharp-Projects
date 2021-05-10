@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache
