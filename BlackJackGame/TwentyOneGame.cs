@@ -31,14 +31,21 @@ namespace BlackJackGame
             foreach (Player player in Players)
             {
                 // Place bet
-                int bet = Convert.ToInt32(Console.ReadLine());
-                bool succesfullyBet = player.Bet(bet);
-                if (!succesfullyBet)
+                try
                 {
-                    return;
+                    int bet = Convert.ToInt32(Console.ReadLine());
+                    bool succesfullyBet = player.Bet(bet);
+                    if (!succesfullyBet)
+                    {
+                        return;
+                    }
+                    // Use game property Bets to make a dictionary item of each bet.
+                    Bets[player] = bet;
                 }
-                // Use game property Bets to make a dictionary item of each bet.
-                Bets[player] = bet;
+                catch (Exception)
+                {
+                    Console.WriteLine("Not a valid input");
+                }
             }
             // Deal hands to players
             for (int i = 0; i < 2; i++)
@@ -135,7 +142,7 @@ namespace BlackJackGame
                 {
                     Console.WriteLine("{0} won ${1}!", entry.Key.Name, entry.Value);
                     // From the list players, where name matches bettors Key.Name, add the amount that player won back to their balance.
-                    Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2); // .Where() produces a list, get item with .First()
+                    Players.Where(x => x.Name == entry.Key.Name).FirstOrDefault().Balance += (entry.Value * 2); // .Where() produces a list, get item with .First()
                     Dealer.Balance -= entry.Value;
                 }
                 return;

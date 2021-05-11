@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace BlackJackGame
 {
@@ -15,8 +16,15 @@ namespace BlackJackGame
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
-            Deck.Cards.RemoveAt(0); 
+            string card = string.Format(Deck.Cards.FirstOrDefault().ToString() + "\n");
+            Console.WriteLine(card);
+            // Write cards to text file as they are dealt
+            using (StreamWriter file = new StreamWriter(@"C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\BlackJackGame\\IO\log.txt", true))
+            {
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
+                Deck.Cards.RemoveAt(0); 
         }
     }
 }

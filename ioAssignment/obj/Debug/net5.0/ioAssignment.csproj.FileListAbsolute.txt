@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ioAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ioAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ioAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ioAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ioAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ref\ioAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\bin\Debug\net5.0\ioAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ref\ioAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ioAssignment\obj\Debug\net5.0\ioAssignment.genruntimeconfig.cache
