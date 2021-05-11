@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Casino/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Casino.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Casino.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Casino/1.0.0": {
+      "type": "project",
+      "path": "../Casino/Casino.csproj",
+      "msbuildProject": "../Casino/Casino.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Casino >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nates\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\Casino\\Casino.csproj": {
+              "projectPath": "C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\Casino\\Casino.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

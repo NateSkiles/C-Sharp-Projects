@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ConstructorAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ConstructorAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ConstructorAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ConstructorAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ConstructorAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ref\ConstructorAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\bin\Debug\net5.0\ConstructorAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ref\ConstructorAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\ConstructorAssignment\obj\Debug\net5.0\ConstructorAssignment.genruntimeconfig.cache

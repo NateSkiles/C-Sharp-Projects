@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace BlackJackGame
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -24,7 +22,7 @@ namespace BlackJackGame
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
-            Dealer.Deck.Shuffle();
+            Dealer.Deck.Shuffle(1);
             Console.WriteLine("Place your bet!");
 
             // Get bet from each player
@@ -69,7 +67,7 @@ namespace BlackJackGame
                         }
                     }
                 }
-                Console.WriteLine("Dealer: ");
+                Console.Write("Dealer: ");
                 Dealer.Deal(Dealer.Hand);
                 if (i == 1)
                 {
@@ -90,7 +88,12 @@ namespace BlackJackGame
             {
                 while (!player.Stay)
                 {
-                    Console.WriteLine("Your cards are: ");
+                    Console.WriteLine("--------------------------------------------------\n\nDealer cards are: ");
+                    foreach (Card card in Dealer.Hand)
+                    {
+                        Console.WriteLine("{0} ", card.ToString());
+                    }
+                    Console.WriteLine("\nYour cards are: ");
                     foreach (Card card in player.Hand)
                     {
                         Console.WriteLine("{0} ", card.ToString());
@@ -135,7 +138,7 @@ namespace BlackJackGame
                 Dealer.isBusted = TwentyOneRules.isBusted(Dealer.Hand);
                 Dealer.Stay = TwentyOneRules.ShouldDealerStay(Dealer.Hand);
             }
-            if (Dealer.Stay)
+            if (Dealer.isBusted)
             {
                 Console.WriteLine("Dealer busted!");
                 foreach (KeyValuePair<Player, int> entry in Bets)
@@ -169,7 +172,7 @@ namespace BlackJackGame
                     Dealer.Balance += Bets[player];
                 }
 
-                Console.WriteLine("Play again?");
+                Console.WriteLine("\n--------------------------------------------------\n\nYour balance is :${0} \nPlay again?", player.Balance);
                 string answer = Console.ReadLine().ToLower();
                 if (answer == "yes" || answer == "yeah" || answer == "y")
                 {

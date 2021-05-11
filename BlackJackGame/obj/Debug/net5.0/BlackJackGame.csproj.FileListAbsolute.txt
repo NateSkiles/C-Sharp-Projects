@@ -14,3 +14,6 @@ C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\ob
 C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\obj\Debug\net5.0\ref\BlackJackGame.dll
 C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\obj\Debug\net5.0\BlackJackGame.pdb
 C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\obj\Debug\net5.0\BlackJackGame.genruntimeconfig.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\bin\Debug\net5.0\Casino.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\bin\Debug\net5.0\Casino.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\BlackJackGame\obj\Debug\net5.0\BlackJackGame.csproj.CopyComplete

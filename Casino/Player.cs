@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace BlackJackGame
+namespace Casino
 {
     public class Player
     {
         // Constructor 
+        public Player(string name) : this(name, 100) {}
         public Player(string name, decimal beginningBalance)
         {
             Hand = new List<Card>();
@@ -23,6 +21,7 @@ namespace BlackJackGame
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)
         {

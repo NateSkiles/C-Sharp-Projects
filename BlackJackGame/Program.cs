@@ -1,11 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
-namespace BlackJackGame
+namespace TwentyOne
 {
     class Program
     {
@@ -22,6 +20,11 @@ namespace BlackJackGame
             if (answer == "yes" || answer == "yeah" || answer == "y")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\\Users\\nates\\Documents\\Tech Academy Projects\\C-Sharp-Projects\\BlackJackGame\\IO\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
