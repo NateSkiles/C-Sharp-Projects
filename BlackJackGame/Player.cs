@@ -8,6 +8,7 @@ namespace BlackJackGame
 {
     public class Player
     {
+        // Constructor 
         public Player(string name, decimal beginningBalance)
         {
             Hand = new List<Card>();
@@ -15,11 +16,27 @@ namespace BlackJackGame
             Name = name;
         }
 
-        public List<Card> Hand { get; set; }
+        // Player properties
+        private List<Card> _hand = new List<Card>();
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public decimal Balance { get; set; }
         public string Name { get; set; }
-        public bool MyProperty { get; set; }
+        public bool isActivelyPlaying { get; set; }
+        public bool Stay { get; set; }
 
+        public bool Bet(int amount)
+        {
+            if (Balance - amount < 0)
+            {
+                Console.WriteLine("You do not have enough to place a bet that size.");
+                return false;
+            }
+            else
+            {
+                Balance -= amount;
+                return true;
+            }
+        }
 
         // Overloaded operators
         public static Game operator+ (Game game, Player player)

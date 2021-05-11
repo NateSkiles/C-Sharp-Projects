@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlackJackGame
 {
-    class Deck
+    public class Deck
     {
         // Constructor Class that is a method called when an object is created
         public Deck()
