@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\TryCatchAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\TryCatchAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\TryCatchAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\TryCatchAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\TryCatchAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\ref\TryCatchAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\bin\Debug\net5.0\TryCatchAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\ref\TryCatchAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\TryCatchAssignment\obj\Debug\net5.0\TryCatchAssignment.genruntimeconfig.cache

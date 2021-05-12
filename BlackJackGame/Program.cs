@@ -11,8 +11,17 @@ namespace TwentyOne
         {
             Console.WriteLine("Welcome to Nate's Casino! Let's start by telling me your name.");
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring today?");
-            decimal bank = Convert.ToDecimal(Console.ReadLine());
+
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                // TryParse returns a boolean value if it was able to parse, output to bank
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only.");
+            }
+
             Console.WriteLine("Hello, {0} would you like to join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
 
@@ -30,7 +39,20 @@ namespace TwentyOne
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (ArgumentException)
+                    {
+                        Console.WriteLine("Something you entered was incorrect");
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your system administrator.");
+                        Console.ReadLine();
+                        return;
+                    }
                 }
             }
 

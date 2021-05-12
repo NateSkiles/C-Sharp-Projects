@@ -22,29 +22,33 @@ namespace Casino.TwentyOne
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
-            Dealer.Deck.Shuffle(1);
-            Console.WriteLine("Place your bet!");
+            Dealer.Deck.Shuffle();
 
             // Get bet from each player
             foreach (Player player in Players)
             {
                 // Place bet
-                try
+                bool validAnser = false;
+                int bet = 0;
+                while (!validAnser)
                 {
-                    int bet = Convert.ToInt32(Console.ReadLine());
-                    bool succesfullyBet = player.Bet(bet);
-                    if (!succesfullyBet)
-                    {
-                        return;
-                    }
-                    // Use game property Bets to make a dictionary item of each bet.
-                    Bets[player] = bet;
+                    Console.WriteLine("Place your bet!");
+                    validAnser = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnser) Console.WriteLine("Please enter only digits.");
                 }
-                catch (Exception)
+                if (bet < 0)
                 {
-                    Console.WriteLine("Not a valid input");
+                    throw new FraudException();
                 }
+                bool succesfullyBet = player.Bet(bet);
+                if (!succesfullyBet)
+                {
+                    return;
+                }
+                // Use game property Bets to make a dictionary item of each bet.
+                Bets[player] = bet;
             }
+
             // Deal hands to players
             for (int i = 0; i < 2; i++)
             {
