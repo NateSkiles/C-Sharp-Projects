@@ -16,7 +16,7 @@ namespace TryCatchAssignment
                     Console.Write("Please enter your age: ");
                     // TryParse returns false if user input cannot be converted to int. Output to age
                     validAnswer = int.TryParse(Console.ReadLine(), out age);
-                    if (age < 0)
+                    if (age <= 0)
                     {
                         throw new ArgumentException();
                     }
@@ -31,7 +31,6 @@ namespace TryCatchAssignment
                 // Display a general message if an exception was caused by anything else.
                 catch (Exception)
                 {
-                    validAnswer = false;
                     Console.WriteLine("Error. Please contact system administrator.");
                 }
             }
