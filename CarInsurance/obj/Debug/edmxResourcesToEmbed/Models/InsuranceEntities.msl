@@ -15,7 +15,6 @@
           <ScalarProperty Name="DUI" ColumnName="DUI" />
           <ScalarProperty Name="SpeedingTickets" ColumnName="SpeedingTickets" />
           <ScalarProperty Name="CoverageType" ColumnName="CoverageType" />
-          <ScalarProperty Name="Coverage" ColumnName="Coverage" />
           <ScalarProperty Name="Quote" ColumnName="Quote" />
         </MappingFragment>
       </EntityTypeMapping>

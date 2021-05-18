@@ -15,7 +15,6 @@
     <Property Name="DUI" Type="bit" Nullable="false" />
     <Property Name="SpeedingTickets" Type="int" Nullable="false" />
     <Property Name="CoverageType" Type="bit" Nullable="false" />
-    <Property Name="Coverage" Type="bit" Nullable="false" />
     <Property Name="Quote" Type="money" Nullable="false" />
   </EntityType>
   <EntityContainer Name="InsuranceModelStoreContainer">

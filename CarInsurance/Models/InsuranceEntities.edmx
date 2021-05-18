@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="InsuranceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="InsuranceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Insurees">
           <Key>
             <PropertyRef Name="Id" />
@@ -20,14 +20,12 @@
           <Property Name="DUI" Type="bit" Nullable="false" />
           <Property Name="SpeedingTickets" Type="int" Nullable="false" />
           <Property Name="CoverageType" Type="bit" Nullable="false" />
-          <Property Name="Coverage" Type="bit" Nullable="false" />
           <Property Name="Quote" Type="money" Nullable="false" />
         </EntityType>
         <EntityContainer Name="InsuranceModelStoreContainer">
           <EntitySet Name="Insurees" EntityType="Self.Insurees" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="InsuranceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -46,7 +44,6 @@
           <Property Name="DUI" Type="Boolean" Nullable="false" />
           <Property Name="SpeedingTickets" Type="Int32" Nullable="false" />
           <Property Name="CoverageType" Type="Boolean" Nullable="false" />
-          <Property Name="Coverage" Type="Boolean" Nullable="false" />
           <Property Name="Quote" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
         </EntityType>
         <EntityContainer Name="InsuranceEntities" annotation:LazyLoadingEnabled="true">
@@ -72,7 +69,6 @@
                 <ScalarProperty Name="DUI" ColumnName="DUI" />
                 <ScalarProperty Name="SpeedingTickets" ColumnName="SpeedingTickets" />
                 <ScalarProperty Name="CoverageType" ColumnName="CoverageType" />
-                <ScalarProperty Name="Coverage" ColumnName="Coverage" />
                 <ScalarProperty Name="Quote" ColumnName="Quote" />
               </MappingFragment>
             </EntityTypeMapping>

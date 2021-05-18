@@ -15,7 +15,6 @@
     <Property Name="DUI" Type="Boolean" Nullable="false" />
     <Property Name="SpeedingTickets" Type="Int32" Nullable="false" />
     <Property Name="CoverageType" Type="Boolean" Nullable="false" />
-    <Property Name="Coverage" Type="Boolean" Nullable="false" />
     <Property Name="Quote" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
   </EntityType>
   <EntityContainer Name="InsuranceEntities" annotation:LazyLoadingEnabled="true">

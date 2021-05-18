@@ -129,7 +129,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\InsureeController.cs" />
+    <Compile Include="Controllers\InsureesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -210,10 +210,14 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Insurees\Create.cshtml" />
+    <Content Include="Views\Insurees\Delete.cshtml" />
+    <Content Include="Views\Insurees\Details.cshtml" />
+    <Content Include="Views\Insurees\Edit.cshtml" />
+    <Content Include="Views\Insurees\Index.cshtml" />
+    <Content Include="Views\Insurees\Admin.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\Insuree\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
