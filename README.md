@@ -12,7 +12,7 @@ These are basic projects I wrote in C# using the .NET Framework. Included is a c
 * [Black Jack Game](#black-jack-game)
 
 
-### [Console Applications](filepath)
+### [Console Applications](/ConsoleApplications/)
 Here is a collection of mostly console apps that I wrote to help me learn C#. I have named most of the project's names directly after the concept they are supposed to be demonstrating. There are a few web applications included as well that only covered a single idea.
 
 As a hands-on learner, these apps allowed me to break or change things in the code from my lessons better understand abstract concepts and how they might interact.
