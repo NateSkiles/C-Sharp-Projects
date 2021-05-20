@@ -18,7 +18,7 @@ namespace Struct
         }
         public struct Number
         {
-            //Create a struct called Number and give it the property “Amount” and have it be of data type decimal.
+            // Create a struct called Number and give it the property “Amount” and have it be of data type decimal.
             public decimal Amount { get; set; }
         }
     }
