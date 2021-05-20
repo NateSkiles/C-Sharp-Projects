@@ -3,13 +3,13 @@ These are basic projects I wrote in C# using the .NET Framework. Included is a c
 
 
 ## Projects
-* [Console Applications](#)
-* [Final Challenge](#)
-* [.NET Core Web App](#)
-* [Car Insurance](#)
-* [News Letter App - MVC](#)
-* [TechAcademy Students MVC](#)
-* [Black Jack Game](#)
+* [Console Applications](#console-applications)
+* [Final Challenge](final-challenge)
+* [.NET Core Web App](#net-core-web-app-aspdotnetcore_webapp)
+* [Car Insurance](#car-insurance)
+* [News Letter App - MVC](#news-letter-app---mvc)
+* [TechAcademy Students MVC](#techacademy-students-mvc)
+* [Black Jack Game](#black-jack-game)
 
 
 ### [Console Applications](filepath)
