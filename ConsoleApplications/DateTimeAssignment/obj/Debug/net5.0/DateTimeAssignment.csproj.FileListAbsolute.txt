@@ -1,0 +1,16 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.csprojAssemblyReference.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\DateTimeAssignment.exe
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\DateTimeAssignment.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\DateTimeAssignment.runtimeconfig.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\DateTimeAssignment.runtimeconfig.dev.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\DateTimeAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\ref\DateTimeAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\bin\Debug\net5.0\DateTimeAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\ref\DateTimeAssignment.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\DateTimeAssignment\obj\Debug\net5.0\DateTimeAssignment.genruntimeconfig.cache

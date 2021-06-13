@@ -1,0 +1,11 @@
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\bin\Debug\net5.0\Casino.deps.json
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\bin\Debug\net5.0\Casino.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\bin\Debug\net5.0\ref\Casino.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\bin\Debug\net5.0\Casino.pdb
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\Casino.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\Casino.AssemblyInfo.cs
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\Casino.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\ref\Casino.dll
+C:\Users\nates\Documents\Tech Academy Projects\C-Sharp-Projects\Casino\obj\Debug\net5.0\Casino.pdb

@@ -1,0 +1,14 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@{ 
+    var myMessage = "is great";
+    var name = "Nate";
+    var today = DateTime.Now;
+}
+<div class="text-center">
+  <h2>Hello this is @name's Web-Page. </h2>
+  <p>The current time and date are: @today.ToString("hh:mm tt -- dddd MMMM, dd yyyy")</p>
+</div>
