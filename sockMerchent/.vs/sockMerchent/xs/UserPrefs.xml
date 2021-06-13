@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A50F0022-25BD-4FB1-A8FF-0CC1C52EF0FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sockMerchent/Program.cs">
+    <Files>
+      <File FileName="sockMerchent/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sockMerchent" expanded="True">
+            <Node name="sockMerchent" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sockMerchent FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

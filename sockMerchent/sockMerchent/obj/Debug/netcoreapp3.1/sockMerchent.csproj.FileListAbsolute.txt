@@ -1,0 +1,12 @@
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/bin/Debug/netcoreapp3.1/sockMerchent.deps.json
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/bin/Debug/netcoreapp3.1/sockMerchent.runtimeconfig.json
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/bin/Debug/netcoreapp3.1/sockMerchent.runtimeconfig.dev.json
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/bin/Debug/netcoreapp3.1/sockMerchent.dll
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/bin/Debug/netcoreapp3.1/sockMerchent.pdb
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.csprojAssemblyReference.cache
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.AssemblyInfoInputs.cache
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.AssemblyInfo.cs
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.csproj.CoreCompileInputs.cache
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.dll
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.pdb
+/Users/nateskiles/Tech Academy/C-Sharp-Projects/sockMerchent/sockMerchent/obj/Debug/netcoreapp3.1/sockMerchent.genruntimeconfig.cache
