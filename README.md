@@ -32,7 +32,7 @@ The application takes in information from the user and then generates a car insu
 ### [News Letter App - MVC](/NewsletterAppMVC/)
 Using LINQ to make queries to a database.
 
-### [TechAcademy Students MVC](/TechAcadStudentsMVC/)
+### [Students MVC](/TechAcadStudentsMVC/)
 Creates a MVC application with Models.
 
 
